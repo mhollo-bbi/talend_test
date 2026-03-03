@@ -1169,7 +1169,6 @@
     <elementParameter field="TEXT" name="FONT_SIZE" value="8"/>
   </note>
   <note opaque="false" posX="1000" posY="920" sizeHeight="80" sizeWidth="161" text="ACTIVE = TRUE"/>
-  <note opaque="true" posX="480" posY="920" sizeHeight="80" sizeWidth="200" text="BBI Teszt note"/>
   <subjob>
     <elementParameter field="CHECK" name="COLLAPSED" value="true" show="false"/>
     <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
